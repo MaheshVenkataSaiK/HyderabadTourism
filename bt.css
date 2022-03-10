@@ -1,0 +1,152 @@
+.header-img{
+    height: 40px;
+    width: auto;
+    padding 0px 0px;
+}
+
+body{
+    padding: 0px;
+}
+
+.collapse{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+li{
+    padding-left: 50px;
+}
+
+h1{
+    font-family: "Montserrat-Thin";
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.container{
+    margin-left: 0px;;
+}
+
+i{
+    width: 100px;
+    height: 100%;
+}
+
+.a img {
+    height: 270px;
+    width: 100%;
+    padding-bottom: 25px;
+}
+
+.imgicon{
+    border: 1px solid #e7e7e7;
+    border-radius: 2px;
+    padding: 0px;
+    height: 93%;
+    box-shadow: 4px 4px 12px rgb(183 171 171 / 40%);
+}
+
+.imgicon:hover{
+    border: 1px solid #e7e7e7;
+    border-radius: 2px;
+    padding: 0px;
+    height: 93%;
+    box-shadow: 4px 4px 12px rgb(183 171 171 / 100%);
+    color: black;
+}
+
+p{
+    padding: 0px 10px;
+    padding-bottom: 10px;;
+}
+
+h1{
+    text-shadow: 10px 10px 12px rgb(183 171 171 / 100%);
+    text-align: center;
+}
+
+.contact-us-box{
+    text-align: center;
+}
+
+i{
+    padding-bottom: 0px;
+    height: 70px;
+
+}
+
+.icon{
+    border: 1px solid #e7e7e7;
+    border-radius: 2px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: 100%;
+    box-shadow: 4px 4px 12px rgb(183 171 171 / 40%);
+    color: #686767;
+}
+
+.icon1{
+    border: 1px solid #e7e7e7;
+    border-radius: 2px;
+    padding-top: 25px;
+    height: 100%;
+    box-shadow: 4px 4px 12px rgb(183 171 171 / 40%);
+    color: #686767;
+}
+
+.icon:hover{
+    color:black;
+}
+
+.icon:hover{
+    box-shadow: 4px 4px 12px rgb(183 171 171 / 100%);
+}
+
+.icon1:hover{
+    color:black;
+}
+
+.icon1:hover{
+    box-shadow: 4px 4px 12px rgb(183 171 171 / 100%);
+}
+
+.container{
+    color: #686767;
+}
+
+.aboutus-icon{
+    border: 1px solid #e7e7e7;
+    border-radius: 2px;
+    padding-top: 25px;
+    height: 100%;
+    box-shadow: 4px 4px 12px rgb(183 171 171 / 40%);
+    color: #686767;
+}
+
+/* .row{
+    padding-top: 3%;
+} */
+
+.aboutus-para{
+    border: 1px solid #e7e7e7;
+    border-radius: 2px;
+    padding: 25px;
+    height: 100%;
+    box-shadow: 4px 4px 12px rgb(183 171 171 / 40%);
+    color: #686767;
+}
+
+.aboutus-para:hover{
+    border: 1px solid #e7e7e7;
+    border-radius: 2px;
+    padding: 25px;
+    height: 100%;
+    box-shadow: 4px 4px 12px rgb(183 171 171 / 100%);
+    color: black;
+}
+
+#about-us{
+    padding-top: 3%;
+}
